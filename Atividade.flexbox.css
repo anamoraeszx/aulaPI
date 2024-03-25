@@ -1,0 +1,101 @@
+body{
+
+    margin: 0%;
+    
+}
+
+.container1{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.container2{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.container3{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: center;
+
+}
+
+.container4{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container5{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container6{
+
+    background-color: lightsteelblue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.container-exB{
+
+    background-color: lightsteelblue;
+    display: flex;
+    flex-direction: column-reverse ;
+
+}
+
+.container-des{
+
+    background-color: lightsteelblue;
+    display: flex;
+    flex-direction: row-reverse ;
+    justify-content: flex-end;
+
+}
+
+.caixa01{
+
+    background-color: deepskyblue;
+    width: 100px;
+    height: 100px;
+
+}
+
+.caixa02{
+
+    background-color: midnightblue;
+    width: 100px;
+    height: 100px;
+
+}
+
+.caixa03{
+
+    background-color: crimson;
+    width: 100px;
+    height: 100px;
+
+}
+
+.caixa04{
+
+    background-color: gold;
+    width: 100px;
+    height: 100px;
+
+}
